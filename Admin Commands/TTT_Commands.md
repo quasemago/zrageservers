@@ -2,6 +2,8 @@
 
 ## Master Admins
 
+Template for init
+
 ## Admins
 
 ## Moderators
