@@ -65,7 +65,7 @@ Número | Mapa | Ganho
 **#54** | ze_eternal_grove_v3 | ❌
 **#55** | ze_tyranny_v5_csgo1 | ✅
 **#56** | ze_S_A_M_v1_4 | ✅
-**#57** | ze_meatropolis_p2 | ✅(Entretanto tags não foram geradas devido bug no save level)
+**#57** | ze_meatropolis_p2 | ❌
 **#58** | ze_bioshock_v6_2_csgo6 | ✅
 **#59** | ze_best_korea_v1 | ❌
 **#60** | ze_l0v0l_v1_4_csgo | ❌ 
