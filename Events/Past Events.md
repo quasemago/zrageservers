@@ -35,8 +35,8 @@ Número | Mapa | Ganho
 **#26** | ze_aztecnoob_p2 <br> ze_arctic_escape_p2 <br> ze_evil_mansion_v1_final <br> ze_icecap_escape_v5_p <br> ze_jurassicpark_c1v4_p2 <br> ze_30_seconds_go_fix | ✅ 
 **#27** | ze_mist_q2 | ✅
 **#28** | ze_fapescape_rote_v1_3 | ❌
-**#29** | ze_toaster_p3 <br> ze_predator_ultimate_p7 <br> ze_castlevania_p1_7 | Parcial (1/3)
-**#30** | ze_lotr_helms_deep_v5_p6 <br> ze_lotr_mines_of_moria_p2 <br> ze_lotr_mines_of_moria_p2 | Parcial (2/3)
+**#29** | ze_toaster_p3 <br> ze_predator_ultimate_p7 <br> ze_castlevania_p1_7 | ❌
+**#30** | ze_lotr_helms_deep_v5_p6 <br> ze_lotr_mines_of_moria_p2 <br> ze_lotr_mines_of_moria_p2 | ❌
 **#31** | ze_tesv_skyrim_v5_6 | ✅
 **#32** | ze_fapescape_p5 | Ganharam?
 **#33** | ze_ffxii_ridorana_cataract_t4_ps2 | ❌
@@ -91,7 +91,7 @@ Número | Mapa | Ganho
 **#82** | ze_ponchermonkey_shooter_v3_5_csgo | ❌
 **#83** | ze_A_E_S_T_H_E_T_I_C_v1_1 | ❌
 **#84** | ze_harry_potter_v2_1_csgo | ❌
-**#85** | ze_666_crazy_escape_v1_1 <br> ze_surf_sahok_p3 <br> ze_ffvii_cosmo_canyon_v1_1_csgo <br> ze_skill_escape_v09 <br> ze_grau_a03_4f <br> ze_gris_v1_13 <br> ze_mist_q2 <br> ze_laser_island_b6_8 <br> ze_ffxiv_wanderers_palace_v4_10 <br> ze_FFXII_Westersand_v7_z9 <br> ze_tilex_ultimate_v2_13 <br> ze_tyranny_v5_csgo1 <br> ze_chroma_v0_4_csgo5 <br> ze_deadcore_v1_3 <br> | Parcial (5/14)
+**#85** | ze_666_crazy_escape_v1_1 <br> ze_surf_sahok_p3 <br> ze_ffvii_cosmo_canyon_v1_1_csgo <br> ze_skill_escape_v09 <br> ze_grau_a03_4f <br> ze_gris_v1_13 <br> ze_mist_q2 <br> ze_laser_island_b6_8 <br> ze_ffxiv_wanderers_palace_v4_10 <br> ze_FFXII_Westersand_v7_z9 <br> ze_tilex_ultimate_v2_13 <br> ze_tyranny_v5_csgo1 <br> ze_chroma_v0_4_csgo5 <br> ze_deadcore_v1_3 <br> | ✅
 **#86** | ze_frostdrake_tower_v1 <br> ze_minecraft_adventure_v1_3d <br> ze_sandstorm_go_v1_3 <br> ze_Pirates_Port_Royal_v5_6 <br> ze_doom_p2 <br> ze_sunlight_v2_0_p8 <br> ze_santassination_v3 <br> ze_S_A_M_v1_7 <br> ze_Ancient_wrath_r4 <br> ze_magic_carpet_p2 <br> ze_licciana_escape_v7_zrgbr_b3 <br> ze_predator_ultimate_p7 <br> ze_best_korea_v1 <br> ze_Bathroom_v2_5 <br> ze_frozentemple_rc1_1 <br> ze_shroomforest3_p <br> ze_isla_nublar_p3 <br> ze_fapescape_p5_fix <br> | ✅
 **#87** | ze_ffxii_ridorana_cataract_t5_3_w2 | ❌
 **#88** | ze_temple_raider_b4_ps6 | ✅
