@@ -3,7 +3,7 @@
 
 Porcentagem Vitórias | Porcentagem Derrotas | Maior Streak
 --- | --- | ---
-51.57 % | 48,43% | 11 Mapas
+50.52 % | 49.48% | 11 Mapas
 
 # Lista de Eventos
 
