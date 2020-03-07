@@ -1,9 +1,11 @@
-Estatísticas: 
+# Estatísticas: 
 (Combo - critério atingido = zerado)
 
-Zerados | Maior Streak
---- | ---
-X % | 11 Mapas
+Porcentagem Vitórias | Porcentagem Derrotas | Maior Streak
+--- | --- | ---
+51.57 % | 48,43% | 11 Mapas
+
+# Lista de Eventos
 
 Número | Mapa | Ganho
 --- | --- | ---
