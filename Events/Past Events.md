@@ -60,7 +60,7 @@ Número | Mapa | Ganho
 **#49** | ze_S_A_M_v1_4 | ❌ 
 **#50** | ze_Pirates_Port_Royal_v5_6 | ❌
 **#51** | ze_evernight_a3_4 | ❌
-**#52** | ze_chroma_v0_4_csgo5 | ✅
+**#52** | ze_chroma_v0_4_csgo5 | ❌
 **#53** | ze_serpentis_temple_csgo5 | ✅
 **#54** | ze_eternal_grove_v3 | ❌
 **#55** | ze_tyranny_v5_csgo1 | ✅
