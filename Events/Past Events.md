@@ -26,8 +26,8 @@ Número | Mapa | Ganho
 **#17** | ze_evernight_a3_4 | ✅
 **#18** | ze_ffvii_cosmo_canyon_v5k_fix | ❌
 **#19** | ze_S_A_M_a40 | ❌
-**#20** | ze_fapescape_p5_fix | Não lembro
-**#21** | ze_serpentis_temple_csgo1 | ❌ (Mapa foi alterado não?)
+**#20** | ze_fapescape_p5_fix | ✅
+**#21** | ze_serpentis_temple_csgo1 | ❌
 **#22** | ze_ffxii_feywood_b5_5 | ❌
 **#23** | ze_deadcore_v1_3 | ✅
 **#24** | ze_tesv_skyrim_v5_6 | ✅
@@ -38,11 +38,11 @@ Número | Mapa | Ganho
 **#29** | ze_toaster_p3 <br> ze_predator_ultimate_p7 <br> ze_castlevania_p1_7 | ❌
 **#30** | ze_lotr_helms_deep_v5_p6 <br> ze_lotr_mines_of_moria_p2 <br> ze_lotr_mines_of_moria_p2 | ❌
 **#31** | ze_tesv_skyrim_v5_6 | ✅
-**#32** | ze_fapescape_p5 | Ganharam?
+**#32** | ze_fapescape_p5 | ✅(Cura secreta do ronning)
 **#33** | ze_ffxii_ridorana_cataract_t4_ps2 | ❌
 **#34** | ze_santassination_v3 | ❌
 **#35** | ze_Ancient_wrath_r4 <br> ze_sandstorm_go_v1_3 <br> ze_FFXII_Westersand_v7_z9 | ✅
-**#36** | ze_shroomforest_p6 <br> ze_shroomforest2_p6 <br> ze_shroomforest3_p | Ganharam?
+**#36** | ze_shroomforest_p6 <br> ze_shroomforest2_p6 <br> ze_shroomforest3_p | ✅
 **#37** | ze_eternal_grove_v3 | ❌
 **#38** | ze_grau_a03_4f | ✅
 **#39** | ze_frostdrake_tower_v1 | ✅
@@ -53,16 +53,16 @@ Número | Mapa | Ganho
 **#44** | ze_FFXII_Westersand_v8zeta1_x16 | ❌
 **#45** | ze_FFXII_Paramina_Rift_r4 | ❌
 **#46** | ze_frozentemple_rc1_1 <br> ze_sunkentemple_v3_1 <br> ze_temple_raider_b4_ps6 | ✅
-**#47** | ze_lotr_minas_tirith_p5 | Foi cancelado/mudou né?
+**#47** | ze_lotr_minas_tirith_p5 | ❌
 **#48** | ze_dreamin_v2_3 | ❌
-**#49** | ze_S_A_M_v1_4 | Não lembro 
+**#49** | ze_S_A_M_v1_4 | ❌ 
 **#50** | ze_Pirates_Port_Royal_v5_6 | ❌
 **#51** | ze_evernight_a3_4 | ❌
 **#52** | ze_chroma_v0_4_csgo5 | ✅
 **#53** | ze_serpentis_temple_csgo5 | ✅
 **#54** | ze_eternal_grove_v3 | ❌
 **#55** | ze_tyranny_v5_csgo1 | ✅
-**#56** | ze_S_A_M_v1_4 | Não lembro
+**#56** | ze_S_A_M_v1_4 | ✅
 **#57** | ze_meatropolis_p2 | ✅(Entretanto tags não foram geradas devido bug no save level)
 **#58** | ze_bioshock_v6_2_csgo6 | ✅
 **#59** | ze_best_korea_v1 | ❌
@@ -70,12 +70,12 @@ Número | Mapa | Ganho
 **#61** | ze_frozentemple_rc1_1 <br> ze_evernight_a3_4 | ❌
 **#62** | ze_A_E_S_T_H_E_T_I_C_v1_1 | ❌
 **#63** | ze_dark_souls_ptd_v0_4_csgo6 | ❌
-**#64** | ze_FFXII_Paramina_Rift_r4 | ❌ (Chegou a ser jogado?)
+**#64** | ze_FFXII_Paramina_Rift_r4 | ❌
 **#65** | ze_diddle_v3 | ❌
 **#66** | ze_dreamin_v2_3 | ✅
 **#67** | ze_atos_v1_3 | ❌
-**#68** | ze_best_korea_v1 | Sim?
-**#69** | ze_ffxiv_wanderers_palace_v5_2 | Esse mapa alterou né?
+**#68** | ze_best_korea_v1 | ✅
+**#69** | ze_rain1_v8x | ❌
 **#70** | ze_ffvii_mako_reactor_v6_b09k | ❌
 **#71** | ze_harry_potter_v2_1_csgo | ❌
 **#72** | ze_eternal_grove_v3 | ❌
