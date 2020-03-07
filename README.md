@@ -1,6 +1,6 @@
-# Servidor Zombie Rage - Resoluções de bugs e etc.
+# Servidor Zombie Rage -
 
-Repositório dedicado a criação de issues de bugs e exploits dentro do servidor. Assim como contato direto com os devs do servidor e cobrança dos mesmos para resolver esses bugs detectados ou pedidos dentro do server.
+Repositório dedicado a informações gerais. Com um foco especial a resolução de bugs e exploits dentro do servidor.
 
 # Como criar um issue?
 
