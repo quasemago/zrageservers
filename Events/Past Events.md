@@ -3,7 +3,7 @@
 
 Porcentagem Vitórias | Porcentagem Derrotas | Maior Streak
 --- | --- | ---
-50.52 % | 49.48% | 11 Mapas
+48.95 % | 51.05% | 11 Mapas
 
 # Lista de Eventos
 
@@ -104,3 +104,4 @@ Número | Mapa | Ganho
 **#93** | ze_deadcore_v1_3 | ✅
 **#94** | ze_undertale_g_c7 | ✅
 **#95** | ze_grau_a03_4 <br> ze_gris_v1_13 | ✅
+**#96** | ze_dark_souls_ptd_v0_4_csgo6 | ❌
