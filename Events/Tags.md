@@ -71,6 +71,7 @@ Mapa | Número de jogadores
 **Frostdrake Pro** | 2
 **Skyrim Pro** | 4
 **Fapescape Pro** | 4
+**Serpentis Pro** | 1
 **Westersand Pro** | 1
 
 ## Legend
