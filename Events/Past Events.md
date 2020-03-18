@@ -1,11 +1,12 @@
-# Estatísticas: 
+# Eventos Passdos Zombie Rage:
+## **Estatísticas**
 (Combo - critério atingido = zerado)
 
 Porcentagem Vitórias | Porcentagem Derrotas | Maior Streak
 --- | --- | ---
 49.48 % | 50.52% | 11 Mapas
 
-# Lista de Eventos
+## **Lista de Eventos**
 
 Número | Mapa | Ganho
 --- | --- | ---
@@ -106,3 +107,4 @@ Número | Mapa | Ganho
 **#95** | ze_grau_a03_4 <br> ze_gris_v1_13 | ✅
 **#96** | ze_dark_souls_ptd_v0_4_csgo6 | ❌
 **#97** | ze_FFVII_Mako_Reactor_v6_b09k2 | ✅
+**#98** | TBD | 
