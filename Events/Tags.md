@@ -1,7 +1,5 @@
 # Lista de Tags atuais do Servidor
 
-**** | 
-
 ## Elite
 Mapa | Número de jogadores
 --- | ---
