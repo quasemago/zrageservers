@@ -107,4 +107,5 @@ Número | Mapa | Ganho
 **#95** | ze_grau_a03_4 <br> ze_gris_v1_13 | ✅
 **#96** | ze_dark_souls_ptd_v0_4_csgo6 | ❌
 **#97** | ze_FFVII_Mako_Reactor_v6_b09k2 | ✅
-**#98** | TBD | 
+**#98** | ze_surf_dark_fantasy_v1go3 | ❌
+**#99** | ze_FFXII_Paramina_Rift_v1_4_a8t | ❌

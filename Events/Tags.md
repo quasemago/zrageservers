@@ -5,7 +5,7 @@ Mapa | Número de jogadores
 --- | ---
 **Shroom Elite** | 4
 **Sandstorm Elite** | 11
-**Mako Elite** | 3
+**Mako Elite** | 13
 **Frostdrake Elite** | 23
 **Westersand Elite** | 11
 **Rizomata Elite** | 7
@@ -48,6 +48,8 @@ Mapa | Número de jogadores
 **Rush B Elite** | 20
 **Deadcore Elite** | 2
 **Pokemon Elite** | 4
+**#Insensible Elite** | 1
+**Isengard Elite** | 2
 
 ## Veteran
 Mapa | Número de jogadores
