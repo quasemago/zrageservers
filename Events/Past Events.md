@@ -109,3 +109,26 @@ Número | Mapa | Ganho
 **#97** | ze_FFVII_Mako_Reactor_v6_b09k2 | ✅
 **#98** | ze_surf_dark_fantasy_v1go3 | ❌
 **#99** | ze_FFXII_Paramina_Rift_v1_4_a8t | ❌
+**#100** | ze_evernight_a3_4 <br> ze_halloween_house_b4 <br> ze_meatropolis_p2 <br> ze_undersea_temple_a2 <br> ze_tyranny2_v1_csgo2 <br> ze_ashen_keep_v0_3_csgo3 <br> ze_dreamin_v2_3 <br> ze_eternal_journey_go_v1_4 <br> ze_pkmn_adventure_v9_3 <br> ze_necromanteion_v2_5 <br> ze_Totemo_Roka_v1 <br> ze_bioshock_v6_2_csgo7 | ✅
+**#101** | ze_temple_of_the_demon_god_v2 | ✅
+**#102** | ze_ffxii_ridorana_cataract_t5_3_w6 | ❌
+**#103** | ze_lotr_minas_tirith_p5 | ✅
+**#104** | ze_A_E_S_T_H_E_T_I_C_v1_1 | ✅
+**#105** | ze_eternal_grove_v3 | ✅
+**#106** | ze_ponchermonkey_shooter_csgo1 | ✅
+**#107** | ze_harry_potter_v2_1_csgo | ❌
+**#108** | ze_ffxiv_wanderers_palace_v5_2 | ❌
+**#109** | ze_l0v0l_v1_4_csgo2 | ❌
+**#110** | ze_santassination_v3 | ❌
+**#111** | ze_diddle_v3 | ❌
+**#112** | ze_ancient_wrath_v2_test27_cm1 | 
+**#113** | ze_FFXII_Paramina_Rift_v1_4_a8t | ✅
+**#114** | ze_ffxiv_wanderers_palace_v5_2 | ✅
+**#115** | ze_santassination_v3 | ❌
+**#116** | ze_deadcore_v1_3_f | ❌
+**#117** | ze_dreamin_v2_10 | ❌
+**#118** | Evento foi pulado | -
+**#119** | ze_m0w0m_csgo1 | ❌
+**#120** | ze_ffxii_ridorana_cataract_t5_3_w6 | 
+**#121** | ze_santassination_v3 | ✅
+**#122** | ze_l0v0l_v1_4_csgo2 | ✅
