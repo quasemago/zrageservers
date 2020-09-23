@@ -121,7 +121,7 @@ Número | Mapa | Ganho
 **#109** | ze_l0v0l_v1_4_csgo2 | ❌
 **#110** | ze_santassination_v3 | ❌
 **#111** | ze_diddle_v3 | ❌
-**#112** | ze_ancient_wrath_v2_test27_cm1 | 
+**#112** | ze_ancient_wrath_v2_test27_cm1 | ❌
 **#113** | ze_FFXII_Paramina_Rift_v1_4_a8t | ✅
 **#114** | ze_ffxiv_wanderers_palace_v5_2 | ✅
 **#115** | ze_santassination_v3 | ❌
@@ -129,6 +129,6 @@ Número | Mapa | Ganho
 **#117** | ze_dreamin_v2_10 | ❌
 **#118** | Evento foi pulado | -
 **#119** | ze_m0w0m_csgo1 | ❌
-**#120** | ze_ffxii_ridorana_cataract_t5_3_w6 | 
+**#120** | ze_ffxii_ridorana_cataract_t5_3_w6 | ❌
 **#121** | ze_santassination_v3 | ✅
 **#122** | ze_l0v0l_v1_4_csgo2 | ✅
