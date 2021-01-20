@@ -2,9 +2,9 @@
 ## **Estatísticas**
 (Combo - critério atingido = zerado)
 
-Porcentagem Vitórias | Porcentagem Derrotas | Maior Streak
---- | --- | ---
-47.93 % | 52.06% | 11 Mapas  
+Porcentagem Vitórias | Porcentagem Derrotas | Porcentagem de melhoria desde ultimo update | Maior Streak
+--- | --- | --- | ---
+49.65 % | 50.35% | +1.72% | 11 Mapas  
 
 ## **Lista de Eventos**
 
@@ -132,3 +132,20 @@ Número | Mapa | Ganho
 **#120** | ze_ffxii_ridorana_cataract_t5_3_w6 | ❌
 **#121** | ze_santassination_v3 | ✅
 **#122** | ze_l0v0l_v1_4_csgo2 | ✅
+**#123** | ze_A_E_S_T_H_E_T_I_C_v1_1 | ❌
+**#124** | ze_dreamin_v2_10 | ✅
+**#125** | ze_m0w0m_csgo1 | ❌
+**#126** | ze_Genso_Of_Last_v3_4_t1 | ✅
+**#127** | ze_fapescape_p5_fix <br> ze_fapescape_rote_v1_3 <br> ze_8bit_csgo3 | ✅
+**#128** | ze_ffxii_ridorana_cataract_t5_3_w6 | ✅
+**#129** | ze_S_A_M_v1_7 | ❌
+**#130** | ze_harry_potter_v2_1_csgo | ❌
+**#131** | ze_m0w0m_csgo1 | ✅
+**#132** | ze_omen_090 | ✅
+**#133** | ze_ffxii_westersand_v8zeta1_b5k | ❌
+**#134** | ze_FFVII_Mako_Reactor_V6_b09k2 | ✅
+**#135** | ze_christmas_infection_p2 <br> ze_ffuxx_demon_naramina_a2 <br> ze_santassination_v3 | ✅
+**#136** | ze_harry_potter_v2_1_csgo | ❌
+**#137** | ze_diddle_v3 | ✅
+**#138** | ze_FFXII_Paramina_Rift_v1_4_a8t | ✅
+**#139** | ze_FFXIV_Wanderers_Palace_v6 | ❌
