@@ -4,7 +4,7 @@
 
 Porcentagem Vitórias | Porcentagem Derrotas | Porcentagem de melhoria desde ultimo update | Maior Streak
 --- | --- | --- | ---
-49.65 % | 50.35% | +1.72% | 11 Mapas  
+49.65 % | 50.35% | +1.72% (17 eventos) | 11 Mapas  
 
 ## **Lista de Eventos**
 
