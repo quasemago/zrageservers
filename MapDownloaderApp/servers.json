@@ -1,0 +1,12 @@
+{
+	"servers":
+	[
+		{
+			"name": "ZRAGE BR #1 [Zombie Escape]",
+			"mapList": "https://raw.githubusercontent.com/quasemago/zrageservers/master/MapDownloaderApp/maps_csgoze.csv",
+			"fastDL": "https://srv-cdn.zrage.com.br/file/zragebr/maps/",
+			"appID": "730",
+			"mapsDirectory": "\\csgo\\maps\\"
+		}
+	]
+}
