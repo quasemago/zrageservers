@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "ZRAGE BR | Trouble in Terrorist Town",
-			"mapList": "https://raw.githubusercontent.com/ZombieRage/public/master/MapDownloaderApp/maps_csgoze.csv",
+			"mapList": "https://raw.githubusercontent.com/ZombieRage/public/master/MapDownloaderApp/maps_csgottt.csv",
 			"fastDL": "https://cdn.zrage.cf/file/zrgbrasil/csgo/maps/",
 			"appID": "730",
 			"mapsDirectory": "\\csgo\\maps\\"
