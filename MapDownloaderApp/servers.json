@@ -2,8 +2,15 @@
 	"servers":
 	[
 		{
-			"name": "ZRAGE BR #1 [Zombie Escape]",
-			"mapList": "https://raw.githubusercontent.com/quasemago/zrageservers/master/MapDownloaderApp/maps_csgoze.csv",
+			"name": "ZRAGE BR | Zombie Escape",
+			"mapList": "https://raw.githubusercontent.com/ZombieRage/public/master/MapDownloaderApp/maps_csgoze.csv",
+			"fastDL": "https://cdn.zrage.cf/file/zrgbrasil/csgo/maps/",
+			"appID": "730",
+			"mapsDirectory": "\\csgo\\maps\\"
+		},
+		{
+			"name": "ZRAGE BR | Trouble in Terrorist Town",
+			"mapList": "https://raw.githubusercontent.com/ZombieRage/public/master/MapDownloaderApp/maps_csgoze.csv",
 			"fastDL": "https://cdn.zrage.cf/file/zrgbrasil/csgo/maps/",
 			"appID": "730",
 			"mapsDirectory": "\\csgo\\maps\\"
